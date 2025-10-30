@@ -13,7 +13,7 @@ import (
 	"github.com/tidwall/pretty"
 	"golang.design/x/clipboard"
 
-	"cbhelper/lib"
+	"github.com/dishonoreded/cbhelper/lib"
 )
 
 const (
