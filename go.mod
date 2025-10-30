@@ -1,4 +1,4 @@
-module cbhelper
+module github.com/dishonoreded/cbhelper
 
 go 1.17
 
